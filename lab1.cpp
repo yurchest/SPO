@@ -24,6 +24,7 @@ int main() {
     printf("result=%g, duration=%f usec\n\n", result, usec);
 
 
+
     // Получение версии Windows. Битовые операции
 
     DWORD info = GetVersion();
